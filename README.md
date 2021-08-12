@@ -1,4 +1,20 @@
-### Hi there 👋
+<!-- Actual text -->
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&labelColor=6495ED&logoColor=white&color=white)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&labelColor=6495ED&logoColor=white&color=white)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&labelColor=6495ED&logoColor=white&color=white)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=Typescript&labelColor=6495ED&logoColor=white&color=white)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&labelColor=6495ED&logoColor=white&color=white)
+![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&labelColor=6495ED&logoColor=white&color=white)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&labelColor=6495ED&logoColor=white&color=white)
+
+### Hi, I'm Max 🌊
+
+Currently studying Computer Science at McGill University in Montreal, Quebec, double major in Music Performance 🎺
+
+I'd love to hear from you! maxzhangvancouver@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetbae)](https://github.com/chetbae/github-readme-stats)
+
 
 <!--
 **chetbae/chetbae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
