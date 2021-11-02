@@ -9,7 +9,7 @@
 
 ### Hi, I'm Max 🌊
 
-Currently studying Computer Science at McGill University in Montreal, Quebec, double major in Music Performance 🎺
+Currently studying MUSIC PERFORMANCE at McGill University in Montreal, Quebec, double major in COMPUTER SCIENCE 🎺
 
 I'd love to hear from you! maxzhangvancouver@gmail.com
 
