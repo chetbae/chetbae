@@ -9,11 +9,11 @@
 
 ### Hi, I'm Max 🌊
 
-Currently studying MUSIC PERFORMANCE at McGill University in Montreal, Quebec, double major in COMPUTER SCIENCE 🎺
+Currently studying computer science and music performance at McGill University in Montreal, Quebec
 
 I'd love to hear from you! maxzhangvancouver@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetbae)](https://github.com/chetbae/github-readme-stats)
+[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetbae)](https://github.com/chetbae/github-readme-stats)
 
 
 <!--
