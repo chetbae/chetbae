@@ -9,7 +9,7 @@
 
 ### Hi, I'm Max 🌊
 
-Currently studying computer science and music performance at McGill University in Montreal, Quebec
+Currently finishing my degree in computer science and music performance at McGill University in Montreal, Quebec. Interning at the Government of Canada in Ottawa, ON!
 
 I'd love to hear from you! maxzhangvancouver@gmail.com
 
