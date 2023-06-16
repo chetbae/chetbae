@@ -9,7 +9,7 @@
 
 ### Hi, I'm Max 🌊
 
-Currently finishing my degree in computer science and music performance at McGill University in Montreal, Quebec. Looking for New Grad opportunities!
+Recently graduated with a degree in computer science and music performance at McGill University in Montreal, Quebec. Looking for New Grad opportunities!
 
 I'd love to hear from you! maxzhangvancouver@gmail.com
 
