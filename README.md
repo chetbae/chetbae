@@ -13,7 +13,6 @@ Recently graduated with a degree in computer science and music performance at Mc
 
 I'd love to hear from you! maxzhangvancouver@gmail.com
 
-[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetbae)](https://github.com/chetbae/github-readme-stats)
 
 
 <!--
