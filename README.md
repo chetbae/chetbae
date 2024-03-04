@@ -9,7 +9,9 @@
 
 ### Hi, I'm Max 🌊
 
-Recently graduated with a degree in computer science and music performance at McGill University in Montreal, Quebec. Looking for New Grad opportunities!
+Recently graduated with a degree in computer science and music performance at McGill University in Montreal, Quebec. 
+
+1+ years of experience working as a __software developer__ and software engineering intern. Looking for _Entry-level_ and _Junior Software Developer_ opportunities!
 
 I'd love to hear from you! maxzhangvancouver@gmail.com
 
