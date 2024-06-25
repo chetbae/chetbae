@@ -1,22 +1,23 @@
-<!-- Actual text -->
 ### Hi! My name is Max Zhang.
 
-I'm interested in creating solutions that help people in their everyday lives, as well as the intersection of music, art, and technology.
+I am passionate about the intersection of music and technology, as well as creating human-centered solutions.
 
-I have a Bachelor's Degree in *__Computer Science__* + *__Jazz Performance__* from McGill University '23.
+I graduated from McGill University in 2023 with a Bachelor's Degree in *Computer Science* and *Jazz Performance.*
 
 <br/>
 
 I have 1+ years in software engineering – previously...
-- [x] developing technology for music researchers at DDMAL Lab 🎺 
+- [x] developing music technology at DDMAL Lab 🎺 
 - [x] engineering a web app for visual science communication at VISABLI ⚛️ 
 - [x] creating software system solutions as a software engineer intern at the Government of Canada 🍁 
 <br/>
 
-### Currently looking for __Junior Software Engineer__ opportunities!
-<br/>
-<br/>
+I would love to hear from you! *maxzhangvancouver@gmail.com*
 
+### Currently looking for __Junior Software Engineer__ opportunities!
+
+<br/>
+<br/>
 <!--
 **chetbae/chetbae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
