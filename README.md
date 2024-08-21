@@ -14,8 +14,6 @@ I have 1+ years in software engineering – previously...
 
 I would love to hear from you! *maxzhangvancouver@gmail.com*
 
-### Currently looking for __Junior Software Engineer__ opportunities!
-
 <br/>
 <br/>
 <!--
